@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73F9E97B1CA400A2005065EC /* 一个瑜伽行者的自传.pages in Resources */ = {isa = PBXBuildFile; fileRef = 73F9E97A1CA400A2005065EC /* 一个瑜伽行者的自传.pages */; };
 		EADAFA4D1A382D5C00608F8B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EADAFA4C1A382D5C00608F8B /* main.m */; };
 		EADAFA501A382D5C00608F8B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EADAFA4F1A382D5C00608F8B /* AppDelegate.m */; };
 		EADAFA531A382D5C00608F8B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EADAFA521A382D5C00608F8B /* ViewController.m */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		73F9E97A1CA400A2005065EC /* 一个瑜伽行者的自传.pages */ = {isa = PBXFileReference; lastKnownFileType = file; path = "一个瑜伽行者的自传.pages"; sourceTree = "<group>"; };
 		EADAFA471A382D5C00608F8B /* AutoLayoutXcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayoutXcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EADAFA4B1A382D5C00608F8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EADAFA4C1A382D5C00608F8B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				EADAFA511A382D5C00608F8B /* ViewController.h */,
 				EADAFA521A382D5C00608F8B /* ViewController.m */,
 				EADAFA541A382D5C00608F8B /* Main.storyboard */,
+				73F9E97A1CA400A2005065EC /* 一个瑜伽行者的自传.pages */,
 				EADAFA571A382D5C00608F8B /* Images.xcassets */,
 				EADAFA591A382D5C00608F8B /* LaunchScreen.xib */,
 				EADAFA4A1A382D5C00608F8B /* Supporting Files */,
@@ -204,6 +207,7 @@
 			files = (
 				EADAFA561A382D5C00608F8B /* Main.storyboard in Resources */,
 				EADAFA5B1A382D5C00608F8B /* LaunchScreen.xib in Resources */,
+				73F9E97B1CA400A2005065EC /* 一个瑜伽行者的自传.pages in Resources */,
 				EADAFA711A38324D00608F8B /* apple.jpg in Resources */,
 				EADAFA581A382D5C00608F8B /* Images.xcassets in Resources */,
 			);
